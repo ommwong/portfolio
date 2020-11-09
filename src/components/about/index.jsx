@@ -32,7 +32,7 @@ const About = () => {
               </Text>
               <Text> As a developer, I've worked on challenging projects alongside incredibly talented developers who have raised the bar for what I can build and <b className="text-primary lined-link">learn</b> in full stack development.
               </Text>
-              <Text> In a prior life, I was a freelance digital marketing consultant. With my experience in digital marketing, I've had the opportunity to create some <b className="text-primary lined-link">cool</b> applications that are both useful and memorable to consumers.
+              <Text> In a prior life, I was a freelance digital marketing consultant. With my experience in digital marketing, I've had the opportunity to create some <b className="text-primary lined-link">cool</b> applications that are both useful and memorable to users.
               </Text>
               <Text> When I'm not in front of the 💻, I love to read 📚 and cook 🍝.
               </Text>
