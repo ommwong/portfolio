@@ -6,11 +6,14 @@ time: 20
 categories: ['react', 'typescript', 'express', 'sequelize', 'graphql', 'socket.io', 'docker', 'heroku', 'cloudinary', 'pwa', 'peer.js', 'sass']
 description: "A minimal, cross-platform web application for fast and simple video conferencing."
 ---
+
+<p align="center">
+[SOURCE CODE](https://github.com/ajustinpatterson/Swift-Video-Meetings)
+</p>
+
 <p align="center">
   <img src="./swift.png" />
 </p>
-
-[SOURCE CODE](https://github.com/ajustinpatterson/Swift-Video-Meetings)
 
 Swift Video Meetings is a video conferencing application I built alongside [Andrea Disperati](https://github.com/Andrea-Dispe) and [Justin Patterson](https://github.com/ajustinpatterson).
 
