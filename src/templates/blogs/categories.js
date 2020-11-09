@@ -25,7 +25,7 @@ const Categories = ({ data }) => {
           </SubTitle>
           <HeaderIntro>
             <SubText>
-              Here are some fun projects I've been working on 💃🏻💃🏻
+              Here are some fun projects I've been working on 💃🏻 👩🏻‍💻
             </SubText>
             <CategoriesTags />
           </HeaderIntro>

@@ -17,15 +17,15 @@ const BlogIndex = ({ data }) => {
         <Intro>
           <ContainerLayout>
 
-            {/* <SubTitle>
+            <SubTitle>
               Projects
             </SubTitle>
             <HeaderIntro>
               <SubText>
-                Some fun things I've been working on 💃🏻 👩🏻‍💻
+                Here are some fun projects I've been working on 💃🏻 👩🏻‍💻
               </SubText>
               <CategoriesTags />
-            </HeaderIntro> */}
+            </HeaderIntro>
 
             <ContainerLayout className="wrapper">
                 {posts.map(({ node }) => {
