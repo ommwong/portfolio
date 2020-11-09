@@ -7,6 +7,7 @@ date: "2015-05-01T22:12:03.284Z"
 time: 3
 description: "A open-source npm library component to generate reusable navigation bars for React UIs."
 ---
+[CODE](https://github.com/kasia-js/navigation-bar-component-for-react)
 
 NavBar Generator is an open-source npm library component to quickly build out navigation bars and routing for React applications.
 
