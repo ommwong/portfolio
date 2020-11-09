@@ -6,7 +6,7 @@ image: './paclogo.png'
 categories: ['react native', 'expo', 'express', 'RESTful']
 description: "A React Native app to help people find and contact members of the United States Congress 🔍 📞 ✊."
 ---
-[SOURCE CODE](https://github.com/ommwong/pissed-at-congress)
+## [SOURCE CODE](https://github.com/ommwong/pissed-at-congress)
 
 <p align="center">
   <img src="./paclogo.png" />

@@ -7,9 +7,7 @@ categories: ['react', 'typescript', 'express', 'sequelize', 'graphql', 'socket.i
 description: "A minimal, cross-platform web application for fast and simple video conferencing."
 ---
 
-<p align="center">
-[SOURCE CODE](https://github.com/ajustinpatterson/Swift-Video-Meetings)
-</p>
+## [SOURCE CODE](https://github.com/ajustinpatterson/Swift-Video-Meetings)
 
 <p align="center">
   <img src="./swift.png" />
