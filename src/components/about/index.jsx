@@ -26,7 +26,7 @@ const About = () => {
             </div>
             <div>
               <Title> Hi, I’m Mo 👋 </Title>
-              <Text> I'm a full stack developer and life-long student from <b className="text-primary lined-link">Los Angeles 🌴</b>.
+              <Text> I'm a full stack developer and life-long student from <b className="text-primary lined-link">Los Angeles 🌴 </b>.
               </Text>
               <Text> I love coding - I'm both excited by how much I can learn in a short amount of time and <b className="text-primary lined-link">humbled</b> by how much I have yet to learn. 🎢 ⛰
               </Text>
@@ -34,7 +34,7 @@ const About = () => {
               </Text>
               <Text> In a prior life, I was a freelance digital marketing consultant. With my experience in digital marketing, I've had the opportunity to create some <b className="text-primary lined-link">cool</b> applications that are both useful and memorable to users.
               </Text>
-              <Text> When I'm not in front of the 💻, I love to read 📚 and cook 🍝.
+              <Text> When I'm not in front of the 💻, I read 50+ books a year and I love to cook 🍝.
               </Text>
               <ResumeButton href="resume.pdf" target="_blank"> Download my resume </ResumeButton>
             </div>
