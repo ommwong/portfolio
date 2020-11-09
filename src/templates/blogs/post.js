@@ -20,23 +20,23 @@ const BlogPost = ({data, pageContext, location}) => {
         description={post.frontmatter.description || post.excerpt}
       />
       <Intro >
-        <ContainerLayout> 
+        <ContainerLayout>
             <div>
               <ArticlePost>
                 <header>
                   <Title>
                       {post.frontmatter.title}
                   </Title>
-                  <SmallText> 
-                    <Calendar className="align-middle text-primary" width="18" height="18" /> 
+                  {/* <SmallText>
+                    <Calendar className="align-middle text-primary" width="18" height="18" />
                     <span className="align-middle"> date published : {post.frontmatter.date} </span>
-                  </SmallText>
-                  <SmallText> 
-                    <Clock className="align-middle text-primary" width="18" height="18" /> 
+                  </SmallText> */}
+                  <SmallText>
+                    <Clock className="align-middle text-primary" width="18" height="18" />
                     <span className="align-middle"> read time : {post.frontmatter.time} mins </span>
                   </SmallText>
                 </header>
-                
+
                 <ArticleBody dangerouslySetInnerHTML={{ __html: post.html }} />
               </ArticlePost>
 
@@ -59,7 +59,7 @@ const BlogPost = ({data, pageContext, location}) => {
                 </NaviagtionList>
               </nav>
             </div>
-          
+
         </ContainerLayout>
       </Intro>
     </Layout>
