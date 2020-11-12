@@ -17,6 +17,10 @@ Swift Video Meetings is a video conferencing application I built alongside [Andr
 
 We built Swift from the ground up in two weeks. I was the back-end lead, responsible for building out the server and database. Our team extensively collaborated on all aspects of the application.
 
+<p align="center">
+  <img src="./SwiftDemo.gif" />
+</p>
+
 <br />
 
 # Project Purpose
