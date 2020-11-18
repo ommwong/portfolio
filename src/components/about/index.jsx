@@ -36,7 +36,7 @@ const About = () => {
               </Text>
               <Text> When I'm not in front of the 💻, I read 50+ books a year and I love to cook 🍝.
               </Text>
-              <ResumeButton href="MoWongResume.pdf" target="_blank"> Download my resume 👀 </ResumeButton>
+              <ResumeButton href="MoWongResume.pdf" target="_blank"> Check out my resume 👀 </ResumeButton>
             </div>
           </AboutSection>
         </ContainerLayout>
